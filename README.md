@@ -1,0 +1,1 @@
+Keel.md is the preferred setting, per Opus 5.5.
